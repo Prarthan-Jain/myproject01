@@ -4,3 +4,5 @@ C=x+Y
 print(C)
 print(x)
 print(Y)
+print("the ans is",c)
+
